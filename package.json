@@ -1,0 +1,9 @@
+{
+  "name": "netlify-lambda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "netlify-lambda": "^1.6.3"
+  }
+}
